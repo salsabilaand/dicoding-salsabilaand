@@ -1,16 +1,9 @@
-# tugas_dicoding
+# TUGAS DICODING
 
-A new Flutter project.
+Salsabila Rachma Aninda/2D/21
+![WhatsApp Image 2021-06-13 at 22 52 49](https://user-images.githubusercontent.com/64761506/121821665-8d3a5a00-ccc4-11eb-809b-d24ee8ea79ff.jpeg)
 
-## Getting Started
+![WhatsApp Image 2021-06-13 at 22 52 49 (1)](https://user-images.githubusercontent.com/64761506/121821676-97f4ef00-ccc4-11eb-80d6-75074e74faee.jpeg)
 
-This project is a starting point for a Flutter application.
+[sertifikat_course_191_1513561_310521111904.pdf](https://github.com/salsabilaand/dicoding-salsabilaand/files/6644639/sertifikat_course_191_1513561_310521111904.pdf)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
